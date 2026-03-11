@@ -36,3 +36,6 @@ fragmentos incompletos
 ![alt text](image-3.png)
 # ANDROID
 ![alt text](image-2.png)
+# IMAGEN
+![IMG_5798](https://github.com/user-attachments/assets/0b7e9d27-94ad-4417-8479-e685866dc558)
+
